@@ -1,0 +1,5 @@
+C:\Users\Daniel\Desktop\Telerik\TestProjects\SendKey\SendKey\bin\Release\SendKey.exe.config
+C:\Users\Daniel\Desktop\Telerik\TestProjects\SendKey\SendKey\bin\Release\SendKey.exe
+C:\Users\Daniel\Desktop\Telerik\TestProjects\SendKey\SendKey\bin\Release\SendKey.pdb
+C:\Users\Daniel\Desktop\Telerik\TestProjects\SendKey\SendKey\obj\Release\SendKey.exe
+C:\Users\Daniel\Desktop\Telerik\TestProjects\SendKey\SendKey\obj\Release\SendKey.pdb
